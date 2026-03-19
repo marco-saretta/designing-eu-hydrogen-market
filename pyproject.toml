@@ -1,16 +1,17 @@
 [project]
-name = "h2-markets-env"
+name = "hydrogen-market-design"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
     "numpy>=2.4.2",
     "pandas>=3.0.1",
     "pytest>=9.0.2",
     "requests>=2.32.5",
     "ruff>=0.15.2",
+    "yfinance",
 ]
-
 
 [tool.ruff]
 line-length = 120
