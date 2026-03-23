@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use the materil of this repository, please cite it as below."
+authors:
+  - family-names: Saretta
+    given-names: Marco
+    orcid: https://orcid.org/0009-0009-4998-0103
+title: "Designing European Hydrogen Markets"
+version: 0.0.1
+date-released: 2025-06-17
