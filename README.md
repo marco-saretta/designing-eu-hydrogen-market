@@ -56,7 +56,13 @@ Survey responses are attributed at the country level only. Individual TSO and re
 
 ## Citation
 
-If you use this repository, please cite:
+If you use this repository, please cite the software:
+
+> Saretta, M. (2025). Designing European Hydrogen Markets (Version 0.0.1).
+
+Citation metadata is available in the CITATION.cff file in this repository.
+
+If you reference the research results associated with this project, please cite:
 
 > Saretta, M., Raheli, E., Kazempour, J. (2025). *Designing European Hydrogen Markets: Perspectives from Transmission System Operators*. Submitted to Energy Policy. DOI: [to be added upon publication]
 
